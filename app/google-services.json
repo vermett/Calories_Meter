@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "506362088921",
+    "firebase_url": "https://calories-meter-ef3cb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "calories-meter-ef3cb",
+    "storage_bucket": "calories-meter-ef3cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506362088921:android:3bb97a838988eebf481dc8",
+        "android_client_info": {
+          "package_name": "com.example.calories_meter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506362088921-58t2no56b5gfdpgo3514psrnq8bd2skv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-csXM_WgZrCOXE91vTFsbhVnEKCFxkkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506362088921-58t2no56b5gfdpgo3514psrnq8bd2skv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506362088921:android:b57e407d81c2caf6481dc8",
+        "android_client_info": {
+          "package_name": "com.example.caloriesmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506362088921-58t2no56b5gfdpgo3514psrnq8bd2skv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-csXM_WgZrCOXE91vTFsbhVnEKCFxkkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506362088921-58t2no56b5gfdpgo3514psrnq8bd2skv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
